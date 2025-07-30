@@ -1,11 +1,11 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="https://github.com/geek-arushi/geek-arushi/blob/main/Arushi%20Singh.gif">
+	<img src="https://github.com/geek-arushi/geek-arushi/blob/main/Arushi%20Sin">
 </div>
 
 ## About me :mortar_board:
-I am currently a student at Netaji Subhas Institute Of Technology, And also Working with Corcus Studio LLp as Full Stack Developer. My deep passion for technology 💻 has shaped a strong technological mindset and fueled my curiosity to continually learn more. I firmly believe that **knowledge is limitless**. 🧠
+I'm a creative and tech-savvy B.Sc. IT student with a passion for web development. I have hands-on experience with HTML, CSS, JavaScript, and modern frameworks. I'm enthusiastic about building clean, responsive, and user-friendly websites. Currently looking for opportunities to learn, grow, and contribute to meaningful projects. My deep passion for technology 💻 has shaped a strong technological mindset and fueled my curiosity to continually learn more. I firmly believe that **knowledge is limitless**. 🧠
 ## What I know :computer:
 - **Programming Languages (Data Structures & Algorithms)**
 <center>
