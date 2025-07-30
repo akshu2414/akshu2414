@@ -1,99 +1,63 @@
-# Welcome to my github! 👋
+# 👋 Welcome to my GitHub!
 
 <div align="center">
-	<img src="https://github.com/geek-arushi/geek-arushi/blob/main/Arushi%20Sin">
+  <img src="https://github.com/geek-arushi/geek-arushi/blob/main/Arushi%20Sin" alt="banner" width="100%"/>
 </div>
 
-## About me :mortar_board:
-I'm a creative and tech-savvy B.Sc. IT student with a passion for web development. I have hands-on experience with HTML, CSS, JavaScript, and modern frameworks. I'm enthusiastic about building clean, responsive, and user-friendly websites. Currently looking for opportunities to learn, grow, and contribute to meaningful projects. My deep passion for technology 💻 has shaped a strong technological mindset and fueled my curiosity to continually learn more. I firmly believe that **knowledge is limitless**. 🧠
-## What I know :computer:
-- **Programming Languages (Data Structures & Algorithms)**
-<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>C++</strong></span><br/>
-						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Java</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
- 
-- **Frontend Development**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td align="center">
-						<span><strong>HTML</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-					</td>
-					<td align="center">
-						<span><strong>CSS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-					</td>
-					<td align="center">
-						<span><strong>Javascript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-					</td>
-					<td align="center">
-						<span><strong>Typescript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-					</td>
-					<td align="center">
-						<span><strong>Bootstrap</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-					</td>
-					<td align="center">
-						<span><strong>React</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-					</td>
-					<td  align="center">
-						<span><strong>Redux</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-					</td>
-					<td align="center">
-						<span><strong>Next JS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
-					</td>
-					<td align="center">
-						<span><strong>Vue.JS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-	
-- **Backend Development**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Node JS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Express</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>MongoDB</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
+---
 
-## What I want to do next :thinking:
-- Master React Native.
-- Explore the realms of AI and ML.
-- Achieve expertise in competitive programming.#
+## 👩‍💻 About Me
+I'm a creative and tech-savvy **B.Sc. IT student** passionate about **web development**. I specialize in building clean, responsive, and user-friendly websites using modern web technologies.
+
+🔎 Currently exploring new technologies, seeking opportunities to learn, grow, and contribute to meaningful projects.  
+💡 I believe **knowledge is limitless**, and I’m driven by a deep curiosity for all things tech.
+
+---
+
+## 💻 Tech Stack
+
+### 🌐 Programming Languages
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="50" alt="C++" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.svgporn.com/logos/java.svg" height="50" alt="Java" />
+</div>
+
+### 🎨 Frontend Development
+<div align="center">
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" height="50" alt="HTML" />
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" height="50" alt="CSS" />
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="50" alt="TypeScript" />
+  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="50" alt="Bootstrap" />
+  <img src="https://cdn.svgporn.com/logos/react.svg" height="50" alt="React" />
+  <img src="https://cdn.svgporn.com/logos/redux.svg" height="50" alt="Redux" />
+  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" height="50" alt="Next.js" />
+  <img src="https://cdn.svgporn.com/logos/vue.svg" height="50" alt="Vue.js" />
+</div>
+
+### 🔧 Backend Development
+<div align="center">
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="50" alt="Node.js" />
+  <img src="https://cdn.svgporn.com/logos/express.svg" height="50" alt="Express" />
+  <img src="https://cdn.svgporn.com/logos/mongodb.svg" height="50" alt="MongoDB" />
+</div>
+
+---
+
+## 🚀 What's Next?
+
+- 📱 Master **React Native**
+- 🤖 Dive into **AI and Machine Learning**
+- ⚔️ Sharpen my skills in **competitive programming**
+
+---
+
+### 📫 Connect with Me
+
+Let's collaborate, learn, and build something amazing!  
+Feel free to connect via [LinkedIn](https://linkedin.com/in/YOUR-USERNAME) or check out some of my featured projects below!
+
+---
+
+
