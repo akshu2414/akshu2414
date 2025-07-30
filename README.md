@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 👋
 
 <div align="center">
-	<img src="https://github.com/geek-arushi/geek-arushi/blob/main/Arushi%20Sin" alt="banner image" />
+	<img src="https://github.com/akshu2414/akshu2414/blob/main/Akashra.gif" alt="banner image" />
 </div>
 
 ---
